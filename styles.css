@@ -1,3 +1,19 @@
+/* Which of the following will style an element by its ID?
+
+ #footer { ... }
+
+ Class?
+
+ .left-nav { ... }
+ .id { ... }
+
+ Tag Name
+
+ p { ... }
+
+ */
+
+
 body {
     text-align: center;
 }
