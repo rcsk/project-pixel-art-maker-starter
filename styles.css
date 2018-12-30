@@ -1,19 +1,4 @@
-/* Which of the following will style an element by its ID?
-
- #footer { ... }
-
- Class?
-
- .left-nav { ... }
- .id { ... }
-
- Tag Name
-
- p { ... }
-
- */
-
-
+/* Structure */
 body {
     text-align: center;
 }
@@ -32,9 +17,12 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
-table,
-tr,
-td {
+input[type=number] {
+    width: 6em;
+}
+
+/* Table (Grid) Construction */
+table, tr, td {
     border: 1px solid black;
 }
 
@@ -43,14 +31,10 @@ table {
     margin: 0 auto;
 }
 
-tr {
-    height: 20px;
-}
-
 td {
     width: 20px;
 }
 
-input[type=number] {
-    width: 6em;
+tr {
+    height: 20px;
 }

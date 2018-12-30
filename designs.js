@@ -9,6 +9,12 @@ sizeSubmit.onsubmit = function(evt) {
     evt.preventDefault();
 }
 
+/**
+* Grid Construction
+* @description Builds a Grid
+* @parm {value} height - The user selectable desired height of grid
+* @parm {value} width - The user selectable desired width of grid
+*/
 function makeGrid(height, width) {
 	// Row Creation
     for (x = 1; x <= height; x++) {
