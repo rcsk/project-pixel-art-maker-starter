@@ -7,10 +7,8 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To get started, simply `index.html` with your web browser.
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository was based on starter code provided to _all_ Udacity students. This was my novice start in combining HTML, CSS and JavaScript togehter in order for any user to create pixel art.

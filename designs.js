@@ -10,10 +10,11 @@ sizeSubmit.onsubmit = function(evt) {
 }
 
 /**
-* Grid Construction
+* Grid Construction by taking in the user selectable desired height
+* and width of the grid.
 * @description Builds a Grid
-* @parm {value} height - The user selectable desired height of grid
-* @parm {value} width - The user selectable desired width of grid
+* @param {value} height - The user selectable desired height of grid
+* @param {value} width - The user selectable desired width of grid
 */
 function makeGrid(height, width) {
 	// Row Creation
